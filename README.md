@@ -1,4 +1,4 @@
-# Repository of exercises HTML, CSS Y JAVASCRIPT.
+# Repository of examples HTML, CSS Y JAVASCRIPT.
 
 ![HCJ](./Recursos/javascript-vs-html-vs-css-1024x683.jpg)
 
