@@ -4,6 +4,6 @@
 
 ## HTML
 1. HTML BASIC
-   - [Example 01](HTML/Example_01.html)
+   * [Example 01](HTML/Example_01.html)
 ## CSS
 ## JAVASCRIPT
