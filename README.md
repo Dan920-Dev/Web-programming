@@ -8,5 +8,6 @@
    * [Example 02](HTML/Example_02.html): Metadata.
    * [Example 03](HTML/Example_03.html): Heading.
    * [Example 04](HTML/Example_04.html): Paragraphs.
+   * [Example 05](HTML/Example_05.html): Text Formatting.
 ## CSS
 ## JAVASCRIPT
