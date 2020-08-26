@@ -11,5 +11,6 @@
    * [Example 05](HTML/Example_05.html): Text Formatting.
    * [Example 06](HTML/Example_06.html): Types of Lists.
    * [Example 07](HTML/Example_07.html): Use of images.
+   * [Example 08](HTML/Example_08.html): Links.
 ## CSS
 ## JAVASCRIPT
