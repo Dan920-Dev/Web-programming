@@ -15,6 +15,7 @@
    - [Example 08](HTML/Example_08.html): Links.
 2. HTML INTERMEDIATE
    - [Example 09](HTML/Example_09.html): Tables.
+   - [Example 10](HTML/Example_10.html): Forms.
 
 ## CSS
 
