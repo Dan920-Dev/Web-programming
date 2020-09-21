@@ -1,0 +1,27 @@
+/* Aplicando borde a TItulo 1*/
+h1 {
+  color: indigo;
+  border-width: 1px;
+  border-radius: 10px;
+  border-color: lightseagreen;
+  border-style: solid;
+  background-color: lightgrey;
+}
+
+/* Aplicando background */
+body {
+  background-color: aquamarine;
+  background-image: url(/Recursos/astronauta.png);
+  background-size: auto;
+}
+
+/*Margen y padding*/
+h2 {
+  margin-top: 1px;
+  margin-bottom: 10px;
+}
+
+/* Padding*/
+.Lorem {
+  padding: 10px;
+}

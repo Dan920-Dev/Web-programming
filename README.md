@@ -24,5 +24,6 @@
 1. CSS BASIC
    - [Example 01](CSS/Example_01): Ways to apply CSS.
    - [Example 02](CSS/Example_02): Selectors.
+   - [Example 03](CSS/Example_03): Properties background, border, margin and padding.
 
 ## JAVASCRIPT
