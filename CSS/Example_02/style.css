@@ -1,0 +1,14 @@
+/* Selecciona todos los p que tiene la clase "text-danger" */
+p.text-danger {
+  color: tomato;
+}
+
+/* Selecciona todas las p que estan dentro de un div */
+div p {
+  color: green;
+}
+
+/* Aplicando la misma regla a varios selectores */
+h1, h2, h3 {
+  color: indigo;
+}

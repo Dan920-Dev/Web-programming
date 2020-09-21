@@ -22,6 +22,7 @@
 ## CSS
 
 1. CSS BASIC
-   - [Example 01](CSS/Example_01/index.html): Ways to apply CSS.
+   - [Example 01](CSS/Example_01): Ways to apply CSS.
+   - [Example 02](CSS/Example_02): Selectors.
 
 ## JAVASCRIPT
