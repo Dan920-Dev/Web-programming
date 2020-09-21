@@ -16,7 +16,8 @@
 2. HTML INTERMEDIATE
    - [Example 09](HTML/Example_09.html): Tables.
    - [Example 10](HTML/Example_10.html): Forms.
-   - [Example 11](HTML/Example_11.html): Input type and Regex.
+   - [Example 11](HTML/Example_11.html): Input type.
+   - [Example 12](HTML/Example_12.html): Input type and Regex.
 
 ## CSS
 
