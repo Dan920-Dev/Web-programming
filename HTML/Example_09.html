@@ -1,0 +1,83 @@
+<!-- structure of a table-->
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Titulo de la pagina</title>
+  </head>
+  <body>
+    <h1>Tablas y Semantica en tablas</h1>
+
+    <h2>Ejemplo 1</h2>
+
+    <table border="1">
+      <tr>
+        <td>Elemento 1</td>
+        <td>Elemento 2</td>
+        <td>Elemento 3</td>
+      </tr>
+      <tr>
+        <td>Elemento 4</td>
+        <td>Elemento 5</td>
+        <td>Elemento 6</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <h2>Ejemplo 2</h2>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+      <tr>
+        <th>Cabecera 1</th>
+        <th>Cabecera 2</th>
+        <th>Cabecera 3</th>
+      </tr>
+      <tr>
+        <td>Elemento 1</td>
+        <td>Elemento 2</td>
+        <td>Elemento 3</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <h2>Ejemplo 3</h2>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Producto</th>
+          <th>Precio Unitario</th>
+          <th>Cantidad</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Laptop</td>
+          <td>$500.00</td>
+          <td>1</td>
+          <td>$500.00</td>
+        </tr>
+        <tr>
+          <td>Mousepad</td>
+          <td>$5.00</td>
+          <td>4</td>
+          <td>$20.00</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td colspan="2">Total</td>
+          <td>5</td>
+          <td>$520.00</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
