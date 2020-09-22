@@ -1,0 +1,19 @@
+/* Pseudo clases y enlaces */
+
+a:link,
+a:visited {
+  background-color: cornflowerblue;
+  color: cornsilk;
+  padding: 14px 25px;
+  text-align: center;
+  margin: 10px;
+  text-decoration: none;
+  display: inline-block;
+  border: 1px solid transparent;
+}
+
+a:hover {
+    background-color: aquamarine;
+    color: gray;
+    border: 1px solid gray;
+}
