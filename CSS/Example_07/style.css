@@ -1,0 +1,59 @@
+/* Personalizar texto y fuentes */
+
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap'); /* Forma 2: Desde google fonts */
+
+body {
+  color: lawngreen;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: -3px;
+  text-shadow: 2px 2px red;
+}
+
+P {
+  text-indent: 25px;
+  text-align: left;
+  direction: rtl;
+  color: blue;
+}
+
+img.top {
+  vertical-align: top;
+}
+
+img.imgg {
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+  text-transform: uppercase;
+}
+
+.serif{
+    font-family:  'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.sanserif{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+}
+
+.monospace{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+}
+
+.ej2{
+    font-family: 'Pacifico', cursive;
+    font-size: 10vw;
+}
+
+.pacifico{
+    font-family: 'Ranchers', cursive;
+}
