@@ -43,5 +43,6 @@
    - [Example 18](CSS/Example_18): Brothers Selectors and Attribute Selectors.
    - [Example 19](CSS/Example_19): Customizing Forms.
    - [Example 20](CSS/Example_20): Layout and System Grid.
+   - [Example 21](CSS/Example_21): Flex.
 
 ## JAVASCRIPT
