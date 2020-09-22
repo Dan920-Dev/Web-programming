@@ -31,5 +31,7 @@
    - [Example 06](CSS/Example_06): Box Model and Outline.
    - [Example 07](CSS/Example_07): Customize text and Fonts.
    - [Example 08](CSS/Example_08): Icons.
+   - [Example 09](CSS/Example_09): Pseudo Class and Links.
+   - [Example 10](CSS/Example_10): Tables.
 
 ## JAVASCRIPT
