@@ -1,0 +1,35 @@
+ /* Tablas */
+
+ table{
+     border-collapse: collapse;
+     width: 100%;
+ } 
+
+/*  table, th, td{
+     border: indigo solid 1px;
+ } */
+
+
+th{
+    background-color: mediumseagreen;
+}
+
+tr:nth-child(even){
+    background-color: mediumturquoise;
+}
+ th, td{
+     height: 50px;
+     text-align: center;
+     border-bottom: solid 1px lightslategrey;
+ }
+
+th:hover{
+    background-color: lightslategrey;
+}
+
+tr:hover{
+    background-color: mediumslateblue;
+}
+tfoot{
+    background-color: lightslategrey;
+}
