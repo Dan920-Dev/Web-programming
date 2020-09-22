@@ -35,5 +35,6 @@
    - [Example 10](CSS/Example_10): Tables.
    - [Example 11](CSS/Example_11): Margin auto y Max Width.
    - [Example 12](CSS/Example_12): Position.
+   - [Example 13](CSS/Example_13): Float, Pseudo Elements, Rem and responsive desing.
 
 ## JAVASCRIPT
