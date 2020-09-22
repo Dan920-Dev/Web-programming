@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "Build-sass": "node-sass -o css sass",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scss": "node-sass -watch sass -o css"
+    "scss": "node-sass -watch sass -o css",
+    "watch": "node-sass -w -o css sass"
   },
   "keywords": [],
   "author": "",
