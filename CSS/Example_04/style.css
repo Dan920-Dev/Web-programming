@@ -1,0 +1,39 @@
+/* Background */
+
+body {
+  /* background-color: aqua;  nombre */
+  /* background-color: #FF0034;  Por valor hexadecimal */
+  /* background-color: rgb(255,255,0);  Por valor rgb */
+  background-color: hsl(0, 63%, 76%); /* Por valor hsl */
+
+  /* background-image: url(/Recursos/astronauta.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+
+  /* Shorthand */
+  background: green url(/Recursos/astronauta.png) no-repeat center fixed;
+  background-size: cover;
+}
+
+/* Aplicando a Titulo 1 */
+h1 {
+  background-color: indigo;
+}
+
+/* Aplicando a div */
+/* div {
+  background-color: lawngreen;
+  opacity: 0.3;
+} */
+
+/* Aplicando a p */
+/* p {
+  background-color: lightseagreen;
+} 
+*/
+
+/* Aplicando a la clase transparent */
+/* .transparent {
+  background-color: magenta;
+} */
