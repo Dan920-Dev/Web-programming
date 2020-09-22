@@ -1,0 +1,38 @@
+/* Creacion de Menu Basico */
+
+* {
+    box-sizing: inherit;
+}
+
+:root  {
+    box-sizing: border-box;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: mediumslateblue;
+}
+
+.menu ul li {
+   float:left; 
+}
+
+.menu ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 1em;
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    background-color: seagreen;
+    outline: 3px solid darkturquoise;
+}
+
+.menu .active {
+    background-color: darkolivegreen;
+}
