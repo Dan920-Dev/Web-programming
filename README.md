@@ -30,5 +30,6 @@
    - [Example 05](CSS/Example_05): Border.
    - [Example 06](CSS/Example_06): Box Model and Outline.
    - [Example 07](CSS/Example_07): Customize text and Fonts.
+   - [Example 08](CSS/Example_08): Icons.
 
 ## JAVASCRIPT
