@@ -1,0 +1,20 @@
+/* Margin auto y Max Width */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    border: maroon solid 5px;
+}
+
+.container1{
+    max-width: 1024px;
+    margin: auto;
+}
+
+.container2{
+    max-width: 100%;
+}
+

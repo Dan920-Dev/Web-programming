@@ -33,5 +33,6 @@
    - [Example 08](CSS/Example_08): Icons.
    - [Example 09](CSS/Example_09): Pseudo Class and Links.
    - [Example 10](CSS/Example_10): Tables.
+   - [Example 11](CSS/Example_11): Margin auto y Max Width.
 
 ## JAVASCRIPT
