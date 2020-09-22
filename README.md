@@ -34,5 +34,6 @@
    - [Example 09](CSS/Example_09): Pseudo Class and Links.
    - [Example 10](CSS/Example_10): Tables.
    - [Example 11](CSS/Example_11): Margin auto y Max Width.
+   - [Example 12](CSS/Example_12): Position.
 
 ## JAVASCRIPT
