@@ -28,5 +28,6 @@
 1. CSS INTERMEDIATE
    - [Example 04](CSS/Example_04): Background.
    - [Example 05](CSS/Example_05): Border.
+   - [Example 06](CSS/Example_06): Box Model.
 
 ## JAVASCRIPT
