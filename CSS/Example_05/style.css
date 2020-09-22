@@ -1,0 +1,17 @@
+/* Bordes*/
+
+/* Aplicando a clase panel */
+.panel{
+    background-color: blueviolet;
+    border-style: solid dashed dotted double; /* Aplicando 4 bordes */
+    padding: 16px;
+    border-width: 5px; /*Ancho del borde */
+    border-color: aqua red;
+    border-radius: 25px 10px;
+} 
+
+/* Forma corta */
+/* .panel{
+    padding: 16PX;
+    border: 5PX solid aqua;
+} */

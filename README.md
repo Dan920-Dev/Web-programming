@@ -27,5 +27,6 @@
    - [Example 03](CSS/Example_03): Properties background, border, margin and padding.
 1. CSS INTERMEDIATE
    - [Example 04](CSS/Example_04): Background.
+   - [Example 05](CSS/Example_05): Border.
 
 ## JAVASCRIPT
