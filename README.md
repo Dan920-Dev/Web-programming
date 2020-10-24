@@ -47,3 +47,4 @@
    - [Example 22](CSS/Example_22): CSS - SASS.
 
 ## JAVASCRIPT
+- [Example 01](JS/Example_01): Variables, variable types, arrangements and flow control structures.
