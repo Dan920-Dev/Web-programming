@@ -48,3 +48,4 @@
 
 ## JAVASCRIPT
 - [Example 01](JS/Example_01): Variables, variable types, arrangements and flow control structures.
+- [Example 02](JS/Example_02/index.js): Functions.
